@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 add merge
 before stash
-C:\Users\LiHong\learngit
+C:\Users\LiHong
